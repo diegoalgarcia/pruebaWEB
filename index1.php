@@ -1,4 +1,7 @@
-<?php 
+<?php   
+
+  //var_dump(expression)
+
   require_once ("ClassOperacion.php");
 
   $operacion1 = new Operacion(10, 2);
